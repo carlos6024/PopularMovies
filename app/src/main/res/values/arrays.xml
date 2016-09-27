@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string-array name="SortPreferencesNames">
+        <item>@string/preference_order_settingName1</item>
+        <item>@string/preference_order_settingName2</item>
+    </string-array>
+
+
+
+    <string-array name="SortPreferences">
+        <item>@string/preference_order_setting1</item>
+        <item>@string/preference_order_setting2</item>
+    </string-array>
+
+
+
+
+</resources>

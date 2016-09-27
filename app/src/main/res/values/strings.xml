@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="menu_settings_option">Settings</string>
+
+    <string name="style1"><u><b><i>Copyright</i></b></u></string>
+
+
+    <string name="preference_order_key" >Order</string>
+    <string name="preference_order_label">Discover By</string>
+
+    <string name="preference_order_default">popular</string>
+
+    <string name="preference_order_settingName1">Popularity</string>
+    <string name="preference_order_settingName2">Best Rating</string>
+
+    <string name="preference_order_setting1">popular</string>
+    <string name="preference_order_setting2">top_rated</string>
+
+
+
+
+</resources>
